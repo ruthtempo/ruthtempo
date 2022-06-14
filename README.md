@@ -1,14 +1,14 @@
-## Hi, it's Ruth
+<h1 align="center">Hi, it's Ruth !</h1>
 ***
 * Made in Barcelona
 * Living in :round_pushpin: Germany
 * On summer 2021 I commited to become a Web Developer and slowly :snail:  but steadily i'm getting closer to that goal everyday. :muscle:
 * After finishing a 350h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
-* I am very lucky :pray: to have an experienced Developer [/kruschid](https://duckduckgo.com) as my mentor, turning my learning process into something very enriching.
+* I am very lucky :pray: to have an experienced Sofware Engineer [/kruschid](https://duckduckgo.com) as my mentor, turning my learning process into something very enriching.
 
 <br>
-
-<code><img width="30" src="react-logo.png">
+<p align="center">
+<img width="30" src="react-logo.png">
 <img width="30" src="ts-logo.png">
 <img width="30" src="vue-logo.png">
 <img width="30" src="JavaScript-logo.png">
@@ -18,12 +18,11 @@
 <img width="30" src="sass-logo.png">
 <img width="30" src="git-logo.png">
 <img width="30" src="vscode.png">
-</code>
-
+</p>
 <br>
 
 
-### About me
+<h2 align="center">About Me</h2>
 ---
 
 * **I am currently...** working on building my portfolio :fire: & developing on a new App for a personal project 
