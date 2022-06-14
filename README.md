@@ -4,20 +4,21 @@
 * Living in :round_pushpin: Germany
 * On summer 2021 I commited to become a Web Developer and slowly :snail:  but steadily i'm getting closer to that goal everyday. :muscle:
 * After finishing a 350h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
-* I am very lucky :pray: to have an experienced Developer as my mentor, turning my learning process into something very enriching.
+* I am very lucky :pray: to have an experienced Developer [/kruschid](https://duckduckgo.com) as my mentor, turning my learning process into something very enriching.
 
 <br>
 
-<img width="50" src="react-logo.png">
-<img width="50" src="ts-logo.png">
-<img width="50" src="vue-logo.png">
-<img width="50" src="JavaScript-logo.png">
-<img width="50" src="bootstrap-logo.svg">
-<img width="50" src="html-logo.png">
-<img width="50" src="css-logo.jpeg">
-<img width="50" src="sass-logo.png">
-<img width="50" src="git-logo.png">
-<img width="50" src="vscode.png">
+<code><img width="30" src="react-logo.png">
+<img width="30" src="ts-logo.png">
+<img width="30" src="vue-logo.png">
+<img width="30" src="JavaScript-logo.png">
+<img width="30" src="bootstrap-logo.svg">
+<img width="30" src="html-logo.png">
+<img width="30" src="css-logo.jpeg">
+<img width="30" src="sass-logo.png">
+<img width="30" src="git-logo.png">
+<img width="30" src="vscode.png">
+</code>
 
 <br>
 
