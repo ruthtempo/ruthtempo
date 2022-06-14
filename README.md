@@ -40,5 +40,5 @@
 
 ---
 <br>
-<img src="intueative.png" width="500">
+<img src="intueative.png" width="300">
 
