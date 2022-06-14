@@ -6,7 +6,7 @@
 * After finishing a 350h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
 * I am very lucky :pray: to have an experienced Sofware Engineer [/kruschid](https://github.com/kruschid) as my mentor, turning my learning process into something very enriching.
 
-<br><br>
+<br>
 <p align="center">
 <img width="30" src="react-logo.png">
 <img width="30" src="ts-logo.png">
@@ -19,13 +19,10 @@
 <img width="30" src="git-logo.png">
 <img width="30" src="vscode.png">
 </p>
-<br>
-
 
 <h2 align="center">About Me</h2>
 
 ---
-
 
 * **I am currently...** working on building my portfolio :fire: & developing a new App for a personal project.
 * **I am often...** sipping matcha latte :tea: while brainstorming about new project ideas. 
