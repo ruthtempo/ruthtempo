@@ -6,7 +6,7 @@
 * After finishing a 350h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
 * I am very lucky :pray: to have an experienced Sofware Engineer [/kruschid](https://duckduckgo.com) as my mentor, turning my learning process into something very enriching.
 
-<br>
+<br><br>
 <p align="center">
 <img width="30" src="react-logo.png">
 <img width="30" src="ts-logo.png">
