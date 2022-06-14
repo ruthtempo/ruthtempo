@@ -35,3 +35,7 @@
 * **Something that I enjoy**...listening to asian lo-fi while coding.
 * **Fun Fact**: I studied Applied Linguistics and I feel that kind of helped me learn to code.
 
+<br>
+<h2 align="center">My Latest Project</h2>
+
+---
