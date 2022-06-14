@@ -1,5 +1,5 @@
 <h1 align="center">Hi, it's Ruth !</h1>
-***
+
 * Made in Barcelona
 * Living in :round_pushpin: Germany
 * On summer 2021 I commited to become a Web Developer and slowly :snail:  but steadily i'm getting closer to that goal everyday. :muscle:
