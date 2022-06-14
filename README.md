@@ -2,7 +2,7 @@
 
 * Made in Barcelona
 * Living in :round_pushpin: Germany
-* On summer 2021 I commited to become a Web Developer and slowly :snail:  but steadily i'm getting closer to that goal everyday. :muscle:
+* On summer 2021 I commited to become a Web Developer and slowly :snail:  but steadily :muscle: I'm getting closer to that goal everyday. 
 * After finishing a 350h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
 * I am very lucky :pray: to have an experienced Sofware Engineer [/kruschid](https://duckduckgo.com) as my mentor, turning my learning process into something very enriching.
 
@@ -25,7 +25,7 @@
 <h2 align="center">About Me</h2>
 ---
 
-* **I am currently...** working on building my portfolio :fire: & developing on a new App for a personal project 
+* **I am currently...** working on building my portfolio :fire: & developing a new App for a personal project.
 * **I am often...** sipping matcha latte :tea: while brainstorming about new project ideas. 
 * **I am currently learning...** as much as I can about ReactJS & Typescript.
 * **Next I'd like to learn...** more about UX/UI.
