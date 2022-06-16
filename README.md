@@ -38,5 +38,6 @@
 ---
 <br>
 <img src="intueative.png" width="300">
-[IntUeative](intueative.netlify.app)
+
+[IntUeative](https://intueative.netlify.app/)
 
