@@ -43,4 +43,4 @@
 
 
 
-[FoodMood -Journal] (https://foodmoodjournal.netlify.app/)
+[FoodMood Journal] (https://foodmoodjournal.netlify.app/)
