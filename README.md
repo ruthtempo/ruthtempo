@@ -37,10 +37,10 @@
 
 ---
 <br>
-<img src="intueative.png" width="500">
+<img src="intueative.png" width="400">
 
 [IntUeative](https://intueative.netlify.app/)
 
-<img src="foodmood_captions.png" width="500">
+<img src="foodmood_captions.png" width="400">
 
 [FoodMood Journal](https://foodmoodjournal.netlify.app/)
