@@ -38,41 +38,23 @@
 ---
 <br>
 
-[IntUeative](https://intueative.netlify.app/)
-
-<img src="intueative.png" width="400">
-
-|Features |
-|----------|
-| Calendar (created from scratch using Date-FNS) |
-| Evolution chart (with ChartJS) |
-| Backend simulation (localStorage)|
-| Navigation with routes (react-router) |
-| Reminders' setting (Push notification simulation) |
 
 
+| <img src="intueative.png" width="400">                          |  <img src="foodmood_captions.png" width="400"> |
+|-----------------------------------------------------------------|------------------------------------------------|
+| [IntUeative](https://intueative.netlify.app/)                   | [FoodMood Journal](https://foodmoodjournal.netlify.app/) |
+| Check in with your body signals and identify your hunger levels | Register your meals and symtoms in detail   | 
+| Evolution chart                                             |  Meal rating with stars   |                              
+| Track your entries with the Calendar                        | Track your entries with the Calendar  
+| Backend simulation (localStorage)                           | Protect your data by keepig it in your Localstorage 
+| Navigation with routes                                      |  Navigation with routes  
+| Reminders' setting (Push notification simulation)           | Form validation (useForm Hooks) |
 
-[FoodMood Journal](https://foodmoodjournal.netlify.app/)
-
-<img src="foodmood_captions.png" width="400">
 
 
-| Features      |
-| ------------- |
-| Register your meals and symtoms in detail   | 
-| Track time and type of meal, ingredients, taste, etc...   |  
-| Track your physical symptoms and mood.|  
-| Form validation (useForm Hooks) |
-| Calendar that allows you to check all your logs on a specific date |
-| Meal rating with stars |
-| Navigation with routes |
-| Protect your data by keepig it in your Localstorage |
 
-| Future implementations:|
-| ------------- |
-| prediction for food intolerances (correlation food-symptoms)       |
-| Registration |
-| Cloud Backend |
+
+
 
 
 
