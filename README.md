@@ -37,9 +37,22 @@
 
 ---
 <br>
-<img src="intueative.png" width="400">
 
 [IntUeative](https://intueative.netlify.app/)
+
+<img src="intueative.png" width="400">
+
+|Features |
+|----------|
+| Calendar (created from scratch using Date-FNS) |
+| Evolution chart (with ChartJS) |
+| Backend simulation (localStorage)|
+| Navigation with routes (react-router) |
+| Reminders' setting (Push notification simulation) |
+
+
+
+[FoodMood Journal](https://foodmoodjournal.netlify.app/)
 
 <img src="foodmood_captions.png" width="400">
 
@@ -55,7 +68,7 @@
 | Navigation with routes |
 | Protect your data by keepig it in your Localstorage |
 
-| Future improvements:|
+| Future implementations:|
 | ------------- |
 | prediction for food intolerances (correlation food-symptoms)       |
 | Registration |
@@ -71,4 +84,4 @@
 
 
 
-[FoodMood Journal](https://foodmoodjournal.netlify.app/)
+
