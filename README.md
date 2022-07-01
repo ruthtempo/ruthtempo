@@ -41,6 +41,6 @@
 
 [IntUeative](https://intueative.netlify.app/)
 
-
+<img src="foodmood_captions.png" width="300">
 
 [FoodMood Journal](https://foodmoodjournal.netlify.app/)
