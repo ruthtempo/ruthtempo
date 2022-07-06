@@ -18,6 +18,8 @@
 <img width="30" src="sass-logo.png">
 <img width="30" src="git-logo.png">
 <img width="30" src="vscode.png">
+<img width="100" src="datefns.jpeg">
+<img width="80" src="reacthookform.jpeg">
 </p>
 
 <h2 align="center">About Me</h2>
