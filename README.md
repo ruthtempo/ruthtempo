@@ -50,7 +50,7 @@
 | Navigation with routes                                      |  Navigation with routes  
 | Reminders' setting (Push notification simulation)           | Form validation (useForm Hooks) |
 
-| Npm Component React-Simplest-Calendar|
+| highly customizablenpm Component for React|
 |-------------------------------------------|
 | [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) |
 | <img src="pic_calendar.png" width="400">|
