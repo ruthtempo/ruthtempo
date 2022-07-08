@@ -29,7 +29,7 @@
 * **I am currently...** working on building my portfolio :fire: & developing a new App for a personal project.
 * **I am often...** sipping matcha latte :tea: while brainstorming about new project ideas. 
 * **I am currently learning...** as much as I can about ReactJS & Typescript.
-* **Next I'd like to learn...** more about UX/UI.
+* **Next I'd like to learn...** more about UX and to widen my frontend stack.
 * **My ideal projects...** are those that can improve people's lives, specially healthy lifestyle related.
 * **Something that I enjoy**...listening to asian lo-fi while coding.
 * **Fun Fact**: I studied Applied Linguistics and I feel that kind of helped me learn to code.
