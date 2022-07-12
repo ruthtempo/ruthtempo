@@ -31,7 +31,7 @@
 * **I am currently learning...** as much as I can about ReactJS & Typescript.
 * **Next I'd like to learn...** more about UX and to widen my frontend stack.
 * **My ideal projects...** are those that can improve people's lives, specially healthy lifestyle related.
-* **Fun Fact**: I studied Applied Linguistics and I feel that kind of helped me learn to code.
+* **Fun Fact**: I feel that my background in Applied Linguistics kind of helped me learn to code.
 
 <br>
 <h2 align="center">My Latest Projects</h2>
