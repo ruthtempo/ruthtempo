@@ -29,9 +29,9 @@
 * **I am currently...** working on building my portfolio :fire: & developing a new App for a personal project.
 * **I am often...** sipping matcha latte :tea: while codind and brainstorming about new project ideas. 
 * **I am currently learning...** as much as I can about ReactJS & Typescript.
-* **Next I'd like to learn...** more about UX and to widen my frontend stack.
-* **My ideal projects...** are those that can improve people's lives, specially healthy lifestyle related.
-* **Fun Fact**: I feel that my background in Applied Linguistics kind of helped me learn to code.
+* **Next I'd like to learn...** more about UX.
+* **My ideal projects...** are those that can improve people's lives, specially healthy/sustainable lifestyle and nutrition related.
+
 
 <br>
 <h2 align="center">My Latest Projects</h2>
