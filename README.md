@@ -57,7 +57,7 @@
 |                                                               | [FakeStore API](https://fakestoreapi.com/) 
 |                                                               |  Form validation with React Form Hooks and Bootstrap
 |                                                              |  Backend simulation (localStorage)
-|  <img src="pic_calendar.png" width="300">                   | <img src="ohmyshop.png" width="400">
+|  <img src="pic_calendar.png" width="400">                   | <img src="ohmyshop.png" width="400">
                                                                  
                                                                  
                                                                 
