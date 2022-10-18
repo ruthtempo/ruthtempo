@@ -50,10 +50,12 @@
 | Navigation with routes                                      |  Navigation with routes  
 | Reminders' setting (Push notification simulation)           | Form validation (useForm Hooks) |
 
-| Highly customizable component for React|
-|-------------------------------------------|
-| [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) |
-| [demo](https://ruthtempo.github.io/react-simplest-calendar/)
-| <img src="pic_calendar.png" width="400">|
+| Highly customizable component for React.  | Online Shop :
+|-------------------------------------------|-------------------------------------------------------------------------------------
+| [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) |[Oh-My-Shop](https://oh-my-shop.netlify.app/)
+| [demo](https://ruthtempo.github.io/react-simplest-calendar/) | React, Typescript & Bootstrap.  Backend simulation (localStorage)
+| <img src="pic_calendar.png" width="400">                     | Register, Login, Add and Remove from Cart & Favorites
+                                                               | [FakeStore API](https://fakestoreapi.com/)
+                                                               | Form validation with React Form Hooks and Bootstrap
 
 
