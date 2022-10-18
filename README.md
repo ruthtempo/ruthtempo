@@ -54,10 +54,10 @@
 |-------------------------------------------|-------------------------------------------------------------------------------------
 | [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) |[Oh-My-Shop](https://oh-my-shop.netlify.app/)
 | [demo](https://ruthtempo.github.io/react-simplest-calendar/) | Register, Login, Add and Remove from Cart & Favorites
-| <img src="pic_calendar.png" width="300">                     | [FakeStore API](https://fakestoreapi.com/) 
-                                                               |  Form validation with React Form Hooks and Bootstrap
-                                                               |  Backend simulation (localStorage)
-                                                               | <img src="ohmyshop.png" width="400">
+|                                                               | [FakeStore API](https://fakestoreapi.com/) 
+|                                                               |  Form validation with React Form Hooks and Bootstrap
+|                                                              |  Backend simulation (localStorage)
+|  <img src="pic_calendar.png" width="300">                   | <img src="ohmyshop.png" width="400">
                                                                  
                                                                  
                                                                 
