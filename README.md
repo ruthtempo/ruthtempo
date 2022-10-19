@@ -50,14 +50,14 @@
 | Navigation with routes                                      |  Navigation with routes  
 | Reminders' setting (Push notification simulation)           | Form validation (useForm Hooks) |
 
-| Highly customizable component for React.  | Online Shop : Full customer flow simulation
+| <img src="pic_calendar.png" width="400">   | <img src="ohmyshop.png" width="400"> 
 |-------------------------------------------|-------------------------------------------------------------------------------------
-| [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) |[Oh-My-Shop](https://oh-my-shop.netlify.app/)
-| [demo](https://ruthtempo.github.io/react-simplest-calendar/) | Register, Login, Add and Remove from Cart & Favorites
-|                                                               | [FakeStore API](https://fakestoreapi.com/) 
-|                                                               |  Form validation with React Form Hooks and Bootstrap
-|                                                              |  Backend simulation (localStorage)
-|  <img src="pic_calendar.png" width="400">                   | <img src="ohmyshop.png" width="400">
+| [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) | Online Shop : Full customer flow simulation
+|  Highly customizable component for React.                      | [Oh-My-Shop](https://oh-my-shop.netlify.app/)
+| [demo](https://ruthtempo.github.io/react-simplest-calendar/)   | Register, Login, Add and Remove from Cart & Favorites
+|                                                               |  [FakeStore API](https://fakestoreapi.com/) for the products 
+|                                                              |  Form validation with React Form Hooks and Bootstrap
+|                                                            | React, Typescript & Bootsrap // Backend simulation (localStorage)
                                                                  
                                                                  
                                                                 
