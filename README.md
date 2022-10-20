@@ -57,7 +57,7 @@
 | [demo](https://ruthtempo.github.io/react-simplest-calendar/)   | Register, Login, Add and Remove from Cart & Favorites
 |                                                               |  [FakeStore API](https://fakestoreapi.com/) for the products 
 |                                                              |  Form validation with React Form Hooks and Bootstrap
-|                                                            | React, Typescript & Bootsrap // Backend simulation (localStorage)
+|                                                            | React, Typescript & Bootstrap // Backend simulation (localStorage)
                                                                  
                                                                  
                                                                 
