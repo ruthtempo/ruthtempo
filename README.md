@@ -33,7 +33,7 @@
 
 
 <br>
-<h2 align="center">My Latest Projects</h2>
+<h2 align="center">My Latest Projects ( Click on the image to go to the repository) </h2>
 
 ---
 <br>
@@ -44,11 +44,6 @@
 |-----------------------------------------------------------------|------------------------------------------------|
 | [IntUeative](https://intueative.netlify.app/)                   | [FoodMood Journal](https://foodmoodjournal.netlify.app/) |
 | Check in with your body signals and identify your hunger levels | Register your meals and symtoms in detail   | 
-| Evolution chart                                             |  Meal rating with stars   |                              
-| Track your entries with the Calendar                        | Track your entries with the Calendar  
-| Backend simulation (localStorage)                           | Protect your data by keepig it in your Localstorage 
-| Navigation with routes                                      |  Navigation with routes  
-| Reminders' setting (Push notification simulation)           | Form validation (useForm Hooks) |
 
 | <img src="pic_calendar.png" width="400">   | [<img src="ohmyshop.png" width="400">](https://github.com/ruthtempo/online-store-react) 
 |-------------------------------------------|-------------------------------------------------------------------------------------
