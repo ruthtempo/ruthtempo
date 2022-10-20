@@ -50,7 +50,7 @@
 | Navigation with routes                                      |  Navigation with routes  
 | Reminders' setting (Push notification simulation)           | Form validation (useForm Hooks) |
 
-| <img src="pic_calendar.png" width="400">   | <img src="ohmyshop.png" width="400"> 
+| <img src="pic_calendar.png" width="400">   | [<img src="ohmyshop.png" width="400">](https://github.com/ruthtempo/online-store-react) 
 |-------------------------------------------|-------------------------------------------------------------------------------------
 | [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) | [Oh-My-Shop](https://oh-my-shop.netlify.app/) 
 |  Highly customizable component for React.                      | Online Shop with Full user flow simulation
