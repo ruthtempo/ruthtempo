@@ -40,7 +40,7 @@
 
 
 
-| <img src="intueative.png" width="400">                          |  <img src="motto2.png" width="400"> |
+| [<img src="intueative.png" width="400">](https://github.com/ruthtempo/eat-intuitive/blob/master/README.md) |  <img src="motto2.png" width="400"> |
 |-----------------------------------------------------------------|------------------------------------------------|
 | [IntUeative](https://intueative.netlify.app/)                   | [FoodMood Journal](https://foodmoodjournal.netlify.app/) |
 | Check in with your body signals and identify your hunger levels | Register your meals and symtoms in detail   | 
