@@ -33,7 +33,7 @@
 
 
 <br>
-<h2 align="center">My Latest Projects ( Click on the image to go to the repository) </h2>
+<h2 align="center">My Latest Projects ( Click on the image for more details) </h2>
 
 ---
 <br>
