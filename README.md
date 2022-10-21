@@ -3,7 +3,7 @@
 * Made in Barcelona
 * On summer 2021 I commited to become a Web Developer and slowly :snail:  but steadily :muscle: I'm getting closer to that goal everyday. 
 * After finishing a 580h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
-* I am very lucky :pray: to have an experienced Sofware Engineer [/kruschid](https://github.com/kruschid) as my mentor, turning my learning process into something very enriching.
+* I am very thankful :pray: to have an experienced Sofware Engineer [/kruschid](https://github.com/kruschid) as my mentor, turning my learning process into something very enriching.
 
 <br>
 <p align="center">
