@@ -31,7 +31,8 @@
 
 
 <br>
-<h2 align="center">My Latest Projects ( Click on the image for more details) </h2>
+<h2 align="center">My Latest Projects  </h2>
+*(Click on the image to access ReadMe)*
 
 ---
 <br>
