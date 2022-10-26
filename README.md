@@ -23,7 +23,7 @@
 
 <h2 align="center">About Me</h2>
 
-* **I am currently...** working on building my portfolio :fire: & developing a new App for a personal project.
+* **I am currently...**  developing a new marketable project.
 * **I am often...** sipping matcha latte :tea: while coding and brainstorming for new projects. 
 * **I am currently learning...** as much as I can about ReactJS & Typescript.
 * **Next I'd like to learn...** more about UX.
