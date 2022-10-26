@@ -51,7 +51,7 @@
 |  Highly customizable component for React.                      | Online Shop with Full user flow simulation
 | [demo](https://ruthtempo.github.io/react-simplest-calendar/)   | Register, Login, Add and Remove from Cart & Favorites
 
-|<img src="pricingplans.jpeg"  width="400 />|
+|[<img src="pricingplans.jpeg"  width="400" >](https://github.com/ruthtempo/price-cards-challenge#readme)|
 |-------------|
 |[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/ |
 | Create for a hackaton challenge |
