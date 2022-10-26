@@ -53,8 +53,8 @@
 
 |[<img src="pricingplans.jpeg"  width="400" >](https://github.com/ruthtempo/price-cards-challenge#readme)|
 |-------------|
-|[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/ |
-| Create for a hackaton challenge |
+|[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/) |
+| Created for a hackaton challenge |
                                                           
                                                                  
  
