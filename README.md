@@ -23,8 +23,6 @@
 
 <h2 align="center">About Me</h2>
 
----
-
 * **I am currently...** working on building my portfolio :fire: & developing a new App for a personal project.
 * **I am often...** sipping matcha latte :tea: while coding and brainstorming for new projects. 
 * **I am currently learning...** as much as I can about ReactJS & Typescript.
@@ -53,9 +51,8 @@
                                                           
                                                                  
  
- <h2 align="center">Blog Posts</h2>
+ <h1 align="center">Blog Posts</h1>
  
- ---
  
  * [Create a collapsible Floating Action Button with React](https://dev.to/ruthtempo/create-a-collapsible-floating-action-button-with-react-iee)
  
