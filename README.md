@@ -58,5 +58,6 @@
  ---
  
  [Create a collapsible Floating Action Button with React](https://dev.to/ruthtempo/create-a-collapsible-floating-action-button-with-react-iee)
+ [How to add dynamic routing to your react single page application](https://dev.to/ruthtempo/how-to-add-dynamic-routing-to-your-react-single-page-application-flm)
 
 
