@@ -50,6 +50,11 @@
 | [react-simplest-calendar](https://www.npmjs.com/package/react-simplest-calendar) | [Oh-My-Shop](https://oh-my-shop.netlify.app/) 
 |  Highly customizable component for React.                      | Online Shop with Full user flow simulation
 | [demo](https://ruthtempo.github.io/react-simplest-calendar/)   | Register, Login, Add and Remove from Cart & Favorites
+
+|<img src="pricingplans.jpeg"  width="400 />|
+|-------------|
+|[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/ |
+| Create for a hackaton challenge |
                                                           
                                                                  
  
