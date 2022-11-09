@@ -1,8 +1,7 @@
 <h1 align="center">Hi, it's Ruth !</h1>
 
 * Made in Barcelona
-* I was always interested in coding but I did not have the right environment that encouraged this career choice. Years later, after trying it coding workshops I reaized I wanted to pursue this interest in coding and UX, take the risk and finally become a frontend developer.
-* On summer 2021 I fully commited to become a Web Developer and steadily :muscle: I'm getting closer to that goal everyday. 
+* I was always interested in coding but I did not have the right environment that encouraged this career choice. Years later, after attending a couple of coding introduction workshops I realized I wanted to pursue this interest in coding and UX, take the risk and finally become a frontend developer.
 * After finishing a 580h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
 * I am very thankful :pray: for having an experienced Sofware Engineer [/kruschid](https://github.com/kruschid) as my mentor, turning my learning process into something very enriching.
 
