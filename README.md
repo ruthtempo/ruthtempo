@@ -51,7 +51,7 @@
 | [demo](https://ruthtempo.github.io/react-simplest-calendar/)   | Register, Login, Add and Remove from Cart & Favorites
 
 |[<img src="pricingplans.jpeg"  width="400" >](https://github.com/ruthtempo/price-cards-challenge#readme)|[<img src="payment.jpeg" width="400" />](https://payment-form-talentsquad.netlify.app/)
-|---------------------------------------------|
+|---------------------------------------------|------|
 |[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/) | [Payment info](https://github.com/ruthtempo/payment-form)
 | Created for a hackaton challenge | 
                                                           
