@@ -53,7 +53,7 @@
 |[<img src="pricingplans.jpeg"  width="400" >](https://github.com/ruthtempo/price-cards-challenge#readme)|[<img src="payment.jpeg" width="400" />](https://payment-form-talentsquad.netlify.app/)
 |---------------------------------------------|------|
 |[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/) | [Payment info](https://github.com/ruthtempo/payment-form)
-| Created for a hackaton challenge | 
+| Created for a hackaton challenge | Payment form with field and format validation
                                                           
                                                                  
  
