@@ -1,7 +1,7 @@
 <h1 align="center">Hi, it's Ruth !</h1>
 
 * Made in Barcelona
-* I was always felt drawn to coding but I did not have the right environment that encouraged this career choice. Years later, after attending a couple of coding introduction workshops I realized I wanted to pursue this interest in coding (and UX), take a leap and finally become a frontend developer.
+* For the past few years, I felt drawn to learning to code, but I did not have the right environment that encouraged this career choice. I finally realized I wanted to pursue this interest in coding (and UX), take a leap, and finally become a frontend developer.
 * After finishing a 580h bootcamp with focus on VueJS, I wanted to check out other frameworks and that's when I fell for the combo ReactJS + Typescript.
 * I am very thankful :pray: for having an experienced Sofware Engineer [/kruschid](https://github.com/kruschid) as my mentor, turning my learning process into something very enriching.
 
