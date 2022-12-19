@@ -53,7 +53,8 @@
 |[<img src="pricingplans.jpeg"  width="400" >](https://github.com/ruthtempo/price-cards-challenge#readme)|[<img src="payment.jpeg" width="400" />](https://github.com/ruthtempo/payment-form)
 |---------------------------------------------|------|
 |[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/) | [Payment info](https://detailform-talentsquad.netlify.app/)
-| Created for a hackaton challenge Jump2Digital and classified as one of the finalists projects | Payment form with field and format validation
+| Created for a hackaton challenge Jump2Digital and classified as one of the finalists projects | Payment form with field and format validation. This solution was ranked 4th in a coding challenge.
+ 
                                                           
                                                                  
  
