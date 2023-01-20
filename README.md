@@ -39,10 +39,10 @@
 
 
 
-| [<img src="intueative.png" width="400">](https://github.com/ruthtempo/eat-intuitive/blob/master/README.md) |  [<img src="motto2.png" width="400">](https://github.com/ruthtempo/food-diary) |
+| [<img src="" width="400">](https://github.com/ruthtempo/polls-redux#readme) |  [<img src="motto2.png" width="400">](https://github.com/ruthtempo/food-diary) |
 |-----------------------------------------------------------------|------------------------------------------------|
-| [IntUeative](https://intueative.netlify.app/)                   | [FoodMood Journal](https://foodmoodjournal.netlify.app/) |
-| Check in with your body signals and identify your hunger levels | Register your meals and symtoms in detail   | 
+| [Polls](https://polls-reduxapp.netlify.app/)                 | [FoodMood Journal](https://foodmoodjournal.netlify.app/) |
+| Create and answer polls                                      | Register your meals and symtoms in detail   | 
 
 | <img src="pic_calendar.png" width="400">   | [<img src="ohmyshop.png" width="400">](https://github.com/ruthtempo/online-store-react) 
 |-------------------------------------------|-------------------------------------------------------------------------------------
