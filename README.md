@@ -39,7 +39,7 @@
 
 
 
-| [<img src="" width="400">](https://github.com/ruthtempo/polls-redux#readme) |  [<img src="motto2.png" width="400">](https://github.com/ruthtempo/food-diary) |
+| [<img src="polls.jpeg" width="400">](https://github.com/ruthtempo/polls-redux#readme) |  [<img src="motto2.png" width="400">](https://github.com/ruthtempo/food-diary) |
 |-----------------------------------------------------------------|------------------------------------------------|
 | [Polls](https://polls-reduxapp.netlify.app/)                 | [FoodMood Journal](https://foodmoodjournal.netlify.app/) |
 | Create and answer polls                                      | Register your meals and symtoms in detail   | 
@@ -53,7 +53,8 @@
 |[<img src="pricingplans.jpeg"  width="400" >](https://github.com/ruthtempo/price-cards-challenge#readme)|[<img src="payment.jpeg" width="400" />](https://github.com/ruthtempo/payment-form)
 |---------------------------------------------|------|
 |[Responsive and Animated Pricing Plans](https://pricing-plans-jump2digital.netlify.app/) | [Payment info](https://detailform-talentsquad.netlify.app/)
-| Created for a hackaton challenge Jump2Digital and classified as one of the finalists projects | Payment form with field and format validation. This solution was ranked 4th in a coding challenge at Nuwe.io
+| Created for a hackaton challenge Jump2Digital | Payment form with field and format validation.
+| Classified as one of the finalists projects | This solution was ranked 4th in the challenge in Nuwe.io
  
                                                           
                                                                  
